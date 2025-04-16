@@ -67,7 +67,7 @@ Wanderlust/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/ritik7739/Wanderlust.git
+   git clone  https://github.com/Sunnykrp/wanderlust_Project.git
    cd Wanderlust
    ```
 
